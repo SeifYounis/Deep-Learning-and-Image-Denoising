@@ -1,0 +1,1 @@
+python create_thumbnails.py /home/seif.younis/Deep\ Learning\ and\ Medical\ Imaging/images_original/images 256 256 -o=/home/seif.younis/Deep\ Learning\ and\ Medical\ Imaging/images_256/images
