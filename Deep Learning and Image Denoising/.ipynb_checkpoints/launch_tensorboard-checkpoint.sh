@@ -1,1 +1,0 @@
-tensorboard --logdir /home/seif.younis/Deep\ Learning\ and\ Medical\ Imaging/logs --bind_all
