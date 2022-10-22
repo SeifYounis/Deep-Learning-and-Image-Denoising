@@ -43,4 +43,3 @@ This is an ongoing project investigating the efficacy of generative adversarial 
 
 #### Research
 - A Technique for Simulating the Effect of Dose Reduction on Image Quality in Digital Chest Radiography [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3043684/#CR4)
-- 
